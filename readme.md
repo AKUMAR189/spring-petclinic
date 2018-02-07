@@ -19,6 +19,8 @@ Our issue tracker is available here: https://github.com/spring-projects/spring-p
 
 ## This is Avinash Kumar - Very interesting class, Loving the project and hands on.
 
+## Last Updated 2/7/2018
+
 ## Database configuration
 
 In its default configuration, Petclinic uses an in-memory database (HSQLDB) which
